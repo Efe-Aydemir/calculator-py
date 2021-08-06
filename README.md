@@ -3,4 +3,4 @@
 # pip install PyQt5
 # Uİ tasarımı HSPMKN.py dosyasındadır
 # Ana kodumuz ise Hesap Makinası.py 'dir
-# (İlk Proje Yüklemem Hata ve Yanlışlık Yaptıysam Affola)
+# İlk Projem oyüzden bu kadar basit bişey
