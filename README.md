@@ -4,3 +4,4 @@
 # Uİ tasarımı HSPMKN.py dosyasındadır
 # Ana kodumuz ise Hesap Makinası.py 'dir
 # İlk Projem oyüzden bu kadar basit bişey
+#İyi eğlenclere
