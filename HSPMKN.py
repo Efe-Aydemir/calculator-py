@@ -242,3 +242,7 @@ class Ui_hesapMakinas(object):
         self.karekok.setText(_translate("hesapMakinas", "√"))
         self.label.setText(_translate("hesapMakinas", "The MonJoR"))
 
+
+        
+        #iyi eğlenceler
+        
