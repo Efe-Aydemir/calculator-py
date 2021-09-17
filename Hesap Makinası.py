@@ -159,3 +159,4 @@ pencere = Pencere()
 pencere.setWindowTitle("Hesap Makinesi")
 pencere.show()
 sys.exit(app.exec_())
+# İyi eğlenceler
